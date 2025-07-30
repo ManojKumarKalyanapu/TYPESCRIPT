@@ -1,0 +1,5 @@
+instialize type script command:
+npx tsc --init
+
+run-command:
+ts-node <file-name>
